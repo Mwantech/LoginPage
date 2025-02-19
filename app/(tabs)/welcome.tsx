@@ -25,7 +25,7 @@ const WelcomeScreen: React.FC<WelcomeScreenProps> = ({ onLogin, onSignUp }) => {
             resizeMode="contain"
           />
           <Image
-            source={require('@/assets/images/welcome-dog.png')}
+            source={require('@/assets/images/logo.png')}
             style={styles.dogImage}
             resizeMode="contain"
           />
